@@ -3,8 +3,10 @@
 These are a sample of some of the Python assignments I completed at Columbia University and Johns Hopkins University.  
 Topics include:
 
+
+- Natural Language Processing (NLP)
+- Document Similarity Analysis (LSA)
 - Sentiment Analysis
-- Document Similarity Analysis
 - Named Entities
 - Topic Modeling
 - Text Summarization
