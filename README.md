@@ -1,7 +1,6 @@
 # Text mining exercises in Python 
 
-These are a sample of some of the Python assignments I completed at Columbia University and Johns Hopkins University.  
-Topics include:
+Examples of some of the Python assignments I completed at Johns Hopkins and Columbia University. Topics include:
 
 
 - Natural Language Processing (NLP)
