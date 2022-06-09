@@ -1,6 +1,7 @@
-# This repository contains examples of text mining exercises in Python 
+# Text mining exercises in Python 
 
-These are a sample of some of the Python assignments I completed at Columbia University and Johns Hopkins University.  Topics include:
+These are a sample of some of the Python assignments I completed at Columbia University and Johns Hopkins University.  
+Topics include:
 
 - Sentiment Analysis
 - Document Similarity Analysis
