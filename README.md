@@ -11,4 +11,4 @@ Topics include:
 - Complexity Analysis
 - Dispersion Plots
 
-Please reach out if I can help answer any questions about how these topics work or if I can help your organization employ similar tools.
+Please reach out if I can help answer any questions about these topics or if I can help your organization employ similar tools.
