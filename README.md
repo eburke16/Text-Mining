@@ -4,7 +4,7 @@ These are a sample of some of the Python assignments I completed at Columbia Uni
 Topics include:
 
 - Sentiment Analysis
-- Document Similarity Analysis
+- [Document Similarity Analysis](Document Similarity Analysis.ipynb)
 - Named Entities
 - Topic Modeling
 - Text Summarization
