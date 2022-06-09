@@ -12,4 +12,6 @@ Examples of some of the Python assignments I completed at Johns Hopkins and Colu
 <li> Complexity Analysis
 <li> Dispersion Plots
 </ul>
+
+
 Please reach out if I can help answer any questions about these topics or if I can help your organization employ similar tools.
